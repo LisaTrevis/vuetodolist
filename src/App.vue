@@ -26,4 +26,10 @@ export default {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.4;
   }
+  /* COLOR PALETTE */
+  /* #826BFF */
+  /* #5176E8 */
+  /* #B8C7FF */
+  /* #51E8E5 */
+  /* #59FFB8 */
 </style>

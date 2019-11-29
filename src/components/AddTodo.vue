@@ -38,8 +38,11 @@ export default {
     input[type="text"] {
         flex: 10;
         padding: 5px;
+        font-size: 20px;
     }
     input[type="submit"] {
         flex: 2;
+        font-size: 20px;
+        border-radius: 10px;
     }
 </style>

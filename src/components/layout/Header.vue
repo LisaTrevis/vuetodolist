@@ -16,19 +16,25 @@ export default {
 
 <style scoped>
     .header {
-        background: #333;
-        color: #fff;
+        background: #ABFFFF;
+        color:#5176E8;
         text-align: center;
         padding: 10px;
     }
-    .header a {
+    .header a:link {
         color: #fff;
         padding-right: 5px;
         text-decoration: none;
     }
     .header a:visited {
-        color: #fff;
+        color: gray;
         padding-right: 5px;
         text-decoration: none;
+    }
+    .header a:hover {
+        color: darkturquoise;
+    }
+    .header a:active {
+        color: #fff;
     }
 </style>

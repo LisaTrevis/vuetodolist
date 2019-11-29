@@ -22,7 +22,7 @@ export default {
 
 <style scoped>
     .todo-item {
-        background: #f4f4f4;
+        background: #B8C7FF;
         padding: 10px;
         border-bottom: 1px #ccc dotted;
     }
@@ -32,7 +32,7 @@ export default {
     }
 
     .del {
-        background: #ff0000;
+        background: #806BFF;
         color: #fff;
         border: none;
         padding: 5px 9px;
