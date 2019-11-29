@@ -25,6 +25,7 @@ export default {
   body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.4;
+    padding: 10px;
   }
   /* COLOR PALETTE */
   /* #826BFF */

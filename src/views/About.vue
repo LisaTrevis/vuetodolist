@@ -8,7 +8,7 @@
 <style scoped>
   h1 {
     text-align: center;
-    color: turquoise;
+    color: #826BFF;
     margin: 10px 0px;
     font-size: 50px;
   }
